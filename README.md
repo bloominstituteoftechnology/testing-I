@@ -12,7 +12,7 @@ Video Link 📺 - https://youtu.be/T7dIBoA_Em0
 
 Guided Project Starter ⌨️ - https://codesandbox.io/s/unit-testing-starter-xedhh
 
-Jest documentation 📝 - jestjs.io
+Jest documentation 📝 - https://jestjs.io/
 
 Exercise Link ⌨️ - https://codesandbox.io/s/objective-shamir-7qstq
 
@@ -29,6 +29,8 @@ RTL Docs 📝 - https://testing-library.com/docs/intro
 Guided Project Starter ⌨️ - https://codesandbox.io/s/testing-i-starter-or6d0
 
 _... one more quick video_
+
 Video Link 📺 - https://youtu.be/0UohqU4yNp8
+
 Guided Project Final ⌨️ - https://codesandbox.io/s/testing-i-starter-z3z2g
 
