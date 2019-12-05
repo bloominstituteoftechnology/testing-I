@@ -4,7 +4,7 @@
 
 Video link 📺 - https://youtu.be/tVpcLFGVYM4
 
-Article Link 🖥 - https://kentcdodds.com/search
+Article Link 🖥 - https://kentcdodds.com/blog/how-to-know-what-to-test
 
 ## Video II - Unit Testing with Jest
 
