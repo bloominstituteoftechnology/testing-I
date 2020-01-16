@@ -14,6 +14,8 @@ Guided Project Starter ⌨️ - https://codesandbox.io/s/unit-testing-starter-xe
 
 Jest documentation 📝 - https://jestjs.io/
 
+Mark's Dev Blog Article on AAA - https://defragdev.com/blog/?p=783
+
 Exercise Link ⌨️ - https://codesandbox.io/s/objective-shamir-7qstq
 
 Converter Formulas 📏 - https://www.w3schools.com/howto/howto_js_length_converter.asp
